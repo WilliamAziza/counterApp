@@ -1,0 +1,17 @@
+button{
+    background-color: greenyellow;
+    border-radius: none;
+    border: 5px;
+    height: 50px;
+    width: 100px;
+    color: black;
+     font-weight: bolder;
+    font-size: 20px;
+}
+.decrease{
+ margin-left: 10px;   
+}
+body {
+    display: flex;
+    justify-content: center;
+}
